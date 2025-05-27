@@ -5,6 +5,8 @@ A simple, stable, and cost-effective development board based on the **STM32G030C
 ---
 ![Board Image](PCB_2D.PNG)
 ![Board Image](pic.jpg)
+
+<img src="pic.jpg" alt="Board Image" width="300"/>
 ---
 
 ## 🔧 Features
