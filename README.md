@@ -3,6 +3,9 @@
 A simple, stable, and cost-effective development board based on the **STM32G030C8T6** microcontroller. This board is designed for **educational**, **control**, and **basic embedded applications**, providing a compact platform for learning and prototyping with ARM Cortex-M0+.
 
 ---
+![Board Image](PCB_2D.PNG)
+![Board Image](pic.jpg)
+---
 
 ## 🔧 Features
 
